@@ -9,5 +9,9 @@ function addNumbers() {
   return result;
 }
 
+let result = addNumbers(4, 5);
+
+console.log(result);
+
 // Do not change this
 module.exports = addNumbers;
